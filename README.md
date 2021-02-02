@@ -15,5 +15,5 @@ W pliku _zadanie2.txt_ znajdują się zahashowane(SHA256) numery indeksów. Nale
 + odnaleźć swój numer 
 + dowiedzieć się który commit *dodał* tę linijkę do pliku
 + przejść do tego commita 
-+ utworzyć nową gałąź i commit w którym umieścić należy sprawozdanie ze sprawdzianu
++ utworzyć nową gałąź i commit w którym umieścić należy sprawozdanie ze sprawdzianu (uzupełnione o listę poleceń z tego zadania)
 + zrobić pull-request do oryginalnego repozytorium z tym commitem
